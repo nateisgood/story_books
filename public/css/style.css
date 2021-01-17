@@ -1,0 +1,22 @@
+body { 
+    background: lightgray 
+}
+
+h2 {
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+}
+
+p {
+    margin: 10px 0 !important;
+}
+
+.card-content {
+    background: gray;
+}
+
+.login-container {
+    text-align: center;
+}
+
+
