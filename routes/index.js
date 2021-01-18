@@ -13,5 +13,11 @@ router.get('/dashboard', (req, res) => {
     res.render('dashboard')
 })
 
+// @desc    image
+// @route   GET /image
+router.get('/image', (req, res) => {
+    res.render('image')
+})
+
 router.get('/')
 module.exports = router
