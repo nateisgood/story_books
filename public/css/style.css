@@ -19,4 +19,8 @@ p {
     text-align: center;
 }
 
-
+#myNumber {
+    background-color: grey;
+    text-align: center;
+    font-size: larger;
+}
